@@ -6,13 +6,15 @@
     "description": "连接NapCatQQ API，实现不依赖同步器收发QQ消息-你只需要一台安装并配置了NapCat的服务器，让手环连接到你的服务器上，并且确保网络连接，即可进行QQ收发消息。",
     "preview": [
       "media/幻灯片 4_3 - 2 (4).png",
-      "media/Snipaste_2026-10-04_20-09-28.png",
-      "media/Snipaste_2026-10-04_20-09-15.png",
-      "media/Snipaste_2026-10-04_20-08-11.png",
-      "media/Snipaste_2026-10-04_20-07-34.png",
-      "media/Snipaste_2026-10-04_20-06-41.png",
-      "media/Snipaste_2026-10-04_20-06-15.png",
-      "media/Snipaste_2026-10-04_20-04-41.png"
+      "media/容器 31 (3).png",
+      "media/容器 36 (1).png",
+      "media/容器 52 (1).png",
+      "media/容器 44 (2).png",
+      "media/容器 30 (2).png",
+      "media/容器 35 (3).png",
+      "media/容器 34 (1).png",
+      "media/容器 33 (2).png",
+      "media/容器 32 (3).png"
     ],
     "icon": "media/icon.png",
     "cover": "media/幻灯片 4_3 - 2 (4).png",
@@ -27,7 +29,7 @@
     {
       "title": "网站",
       "url": "https://napbandq.netlify.app",
-      "icon": "Link"
+      "icon": "link"
     }
   ],
   "downloads": {
@@ -42,11 +44,6 @@
       "versionCode": 1
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.app.naoh.napbandq.release.1.0.0.rpk",
-      "versionCode": 1
-    },
-    "xmb10p": {
       "version": "1.0.0",
       "file_name": "downloads/com.app.naoh.napbandq.release.1.0.0.rpk",
       "versionCode": 1
